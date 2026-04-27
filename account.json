@@ -5,8 +5,11 @@
         "username": "Hotaru Itsorano",
         "elementSpecialty": ["Lux", "Aqua"], 
         "avatarURL": "Shimiao",
-        "builds": ["AmberTemp", "L-Ru Alt", "Pollux", "LeaF", "Post-Haste"]
-
+        "builds": ["AmberTemp", "L-Ru Alt", "Pollux", "LeaF", "Post-Haste"],
+        "recentPull": {
+            "character": "Donna",
+            "date": "3/19/2026"
+        }
     },
 
     "S-Fari": {
@@ -15,7 +18,11 @@
         "username": "Pisfalis Tokyo",
         "elementSpecialty": ["Umbra", "Ventus"], 
         "avatarURL": "Cosette",
-        "builds": ["Eternatus", "Minos", "Barbatos", "Eterna"]
+        "builds": ["Eternatus", "Minos", "Barbatos", "Eterna"],
+        "recentPull": {
+            "character": "Otoha",
+            "date": "4/23/2026"
+        }
     },
 
     "XenoX": {
@@ -24,6 +31,10 @@
         "username": "Xenoshaki Firaga",
         "elementSpecialty": ["Ignis", "Terra"], 
         "avatarURL": "SnowishLaru",
-        "builds": ["L-Ru", "Rhododenrous", "ThyEnd"]
+        "builds": ["L-Ru", "Rhododenrous", "ThyEnd"],
+        "recentPull": {
+            "character": "SpringseekCoronis",
+            "date": "2/02/2026"
+        }
     }
 }

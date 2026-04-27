@@ -1,58 +1,51 @@
 {
-    "A": {
-        "Ann": "https://www.kaiden.gg/img/stella-sora/characters/portraits/head_12301_XXL.png",
-        "Amber": "https://cdn-www.bluestacks.com/bs-images/a35405d007f948ebb5ea55207aabc4a7.png"
-    },
-    "C": {
-        "Chixia": "https://i.redd.it/a-small-collection-of-chixia-her-l2d-is-just-so-peak-v0-jt97si6uf75f1.png?width=3840&format=png&auto=webp&s=dd2b932da655ed96d560af05fc60ee7bb019f687",
-        "Cosette": "https://media.tenor.com/LRmn8G8Or40AAAAe/cosette-stella-sora.png",
-        "Canace": "https://images.steamusercontent.com/ugc/17318084437823348082/A51C267AA951995875996AD638F836518F0FCDA1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    "D": {
-        "Donna": "https://i.ytimg.com/vi/vC87Azf-vfc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSdNoM2MbtwFzGWbodaNJyEyu_nA"
-    },
-    "F": {
-        "Flora": "https://preview.redd.it/casualclothed-flora-affection-story-spoilers-v0-bypqds58xe1g1.png?width=640&crop=smart&auto=webp&s=ef61214e24ebb996f1cb89aff95db6a0fa2037f5",
-        "Freesia": "https://static.wikitide.net/stellasorawiki/thumb/c/c6/Date_CG_125302.png/200px-Date_CG_125302.png",
-        "Firenze": "https://webusstatic.yo-star.com/web-cms-prod/upload/content/2026/01/08/Xs2PSjB7.png"
-    },
-    "G": {
-        "Gerie": "https://images.steamusercontent.com/ugc/13995469689080730833/0B94B28F34D509584781775AAB2DFB4D742C8EEA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    "I": {
-        "Iris": "https://preview.redd.it/just-starting-gotta-say-iris-is-my-fave-of-the-trio-so-far-v0-egmjo6a357wf1.png?width=1080&crop=smart&auto=webp&s=64a46b3ea2a172206291642ca12e1a961248fae6"
-    },
-    "K": {
-        "Kasimira": "https://i.namu.wiki/i/XOU9xvCFWGkwye33QCju89a6mgiBECrpK-tizAeaXLZA-bX7GwNgw6pMBXRj9Kr3YMTRVjnt3slfn6sJBUqpxQ.webp"
-    },
-    "M": {
+    "Lux": {
         "Minova": "https://images.steamusercontent.com/ugc/16765128070643640247/9929D518716E5D92D8CE1C21B7C89B3050131C60/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
-        "Mistique": "https://images.steamusercontent.com/ugc/10992178499122850636/A3C2DA8C811CA6581590770B3B581BA67761F3CC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
-    },
-    "N": {
-        "Nazuna": "https://i.ytimg.com/vi/8RYXrGo7moE/maxresdefault.jpg",
-        "Nazuka": "https://webusstatic.yo-star.com/web-cms-prod/upload/content/2025/12/05/g2iHWqaZ.png",
-        "Nanoha": "https://www.kaiden.gg/stella-sora/guides/media/icons/DatingSPCG_119301.png"
-    },
-    "O": {
-        "Otoha": "https://i.ytimg.com/vi/Y6dn4DxBfFg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdSDixtFIgNFqY5KX3oAdrskTzxA"
-    },
-    "R": {
-        "Ridge": "https://embed.pixiv.net/artwork.php?illust_id=134674094&mdate=1756901405"
-    },
-    "S": {
-        "SpringseekCoronis": "https://preview.redd.it/festival-message-springseek-coronis-v0-k52213brf7lg1.jpeg?width=1080&crop=smart&auto=webp&s=67bf58453f9cb351e2bd2849b93c440b88e6757b",
-        "SnowishLaru": "https://static.wikitide.net/stellasorawiki/7/7c/Snowish_Laru.png",
-        "Shimiao": "https://media.tenor.com/lMaXIFa24C0AAAAe/stella-sora-shimiao-shimiao.png"
-    },
-    "T": {
-        "Teresa": "https://i.ytimg.com/vi/2KkoVEXYGrQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDggXihyMA8=&rs=AOn4CLDXPCzx4VcPCbypAjCG7klOJmuN-Q",
         "Tilia": "https://media.tenor.com/FaB-nL-t-nAAAAAe/stella-sora-tilia.png"
     },
-    "W": {
+    "Ignis": {
+        "Amber": "https://cdn-www.bluestacks.com/bs-images/a35405d007f948ebb5ea55207aabc4a7.png",
+        "Chixia": "https://i.redd.it/a-small-collection-of-chixia-her-l2d-is-just-so-peak-v0-jt97si6uf75f1.png?width=3840&format=png&auto=webp&s=dd2b932da655ed96d560af05fc60ee7bb019f687",
+        "Flora": "https://preview.redd.it/casualclothed-flora-affection-story-spoilers-v0-bypqds58xe1g1.png?width=640&crop=smart&auto=webp&s=ef61214e24ebb996f1cb89aff95db6a0fa2037f5",
+        "Kasimira": "https://i.namu.wiki/i/XOU9xvCFWGkwye33QCju89a6mgiBECrpK-tizAeaXLZA-bX7GwNgw6pMBXRj9Kr3YMTRVjnt3slfn6sJBUqpxQ.webp",
+        "SnowishLaru": "https://static.wikitide.net/stellasorawiki/7/7c/Snowish_Laru.png"
+    },
+    "Aqua": {
+        "Donna": "https://i.ytimg.com/vi/vC87Azf-vfc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBSdNoM2MbtwFzGWbodaNJyEyu_nA",
+        "Freesia": "https://static.wikitide.net/stellasorawiki/thumb/c/c6/Date_CG_125302.png/200px-Date_CG_125302.png",
+        "Iris": "https://preview.redd.it/just-starting-gotta-say-iris-is-my-fave-of-the-trio-so-far-v0-egmjo6a357wf1.png?width=1080&crop=smart&auto=webp&s=64a46b3ea2a172206291642ca12e1a961248fae6",
+        "Shimiao": "https://media.tenor.com/lMaXIFa24C0AAAAe/stella-sora-shimiao-shimiao.png",
+        "Teresa": "https://i.ytimg.com/vi/2KkoVEXYGrQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGDggXihyMA8=&rs=AOn4CLDXPCzx4VcPCbypAjCG7klOJmuN-Q"
+    },
+    "Umbra": {
+        "Cosette": "https://media.tenor.com/LRmn8G8Or40AAAAe/cosette-stella-sora.png",
+        "Firenze": "https://webusstatic.yo-star.com/web-cms-prod/upload/content/2026/01/08/Xs2PSjB7.png",
+        "Mistique": "https://images.steamusercontent.com/ugc/10992178499122850636/A3C2DA8C811CA6581590770B3B581BA67761F3CC/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "Otoha": "https://i.ytimg.com/vi/Y6dn4DxBfFg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdSDixtFIgNFqY5KX3oAdrskTzxA"
+    },
+    "Ventus": {
+        "Ann": "https://www.kaiden.gg/img/stella-sora/characters/portraits/head_12301_XXL.png",
+        "Canace": "https://images.steamusercontent.com/ugc/17318084437823348082/A51C267AA951995875996AD638F836518F0FCDA1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+        "Nazuka": "https://webusstatic.yo-star.com/web-cms-prod/upload/content/2025/12/05/g2iHWqaZ.png",
+        "Nanoha": "https://www.kaiden.gg/stella-sora/guides/media/icons/DatingSPCG_119301.png",
         "Wraith": "https://i.ytimg.com/vi/7cS71003wwY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUVuBtf27g2ZDBLVYhltiCvSG9tw"
     },
+    "Terra": {
+        "Gerie": "https://images.steamusercontent.com/ugc/13995469689080730833/0B94B28F34D509584781775AAB2DFB4D742C8EEA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+        "Nazuna": "https://i.ytimg.com/vi/8RYXrGo7moE/maxresdefault.jpg",
+        "Ridge": "https://embed.pixiv.net/artwork.php?illust_id=134674094&mdate=1756901405",
+        "SpringseekCoronis": "https://preview.redd.it/festival-message-springseek-coronis-v0-k52213brf7lg1.jpeg?width=1080&crop=smart&auto=webp&s=67bf58453f9cb351e2bd2849b93c440b88e6757b"
+    },
     
+    "Elemental_Colors": {
+        "Lux": "#F5C518",
+        "Ignis": "#E63946",
+        "Aqua": "#4CC9F0",
+        "Umbra": "#7209B7",
+        "Ventus": "#38B000",
+        "Terra": "#8B5E34"
+    },
+
     "Elemental_Icons": {
         "Lux": "https://static.wikitide.net/stellasorawiki/d/d0/Icon_common_lux.png",
         "Ignis": "https://static.wikitide.net/stellasorawiki/8/83/Icon_common_ignis.png",

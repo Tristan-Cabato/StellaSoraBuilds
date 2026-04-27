@@ -5,9 +5,88 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Stella Sora Builds</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&family=Orbitron:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
-<body class="bg-[url('https://novaweb-usstatic.yo-star.com/h5/assets/bg-991b85a5.png')] bg-cover bg-center min-h-screen">
-    <div id="app" class="container mx-auto p-4 space-y-6"></div>
+<body>
+    <canvas id="particles-canvas"></canvas>
+    
+    <div id="loading-screen" class="fixed inset-0 flex items-center justify-center bg-[#0a0a1a] z-50">
+        <div class="text-center">
+            <div class="loading-spinner mx-auto mb-4"></div>
+            <p class="text-cyan-300 font-orbitron text-lg glow-text">Loading Builds...</p>
+        </div>
+    </div>
+    
+    <div id="app" class="container mx-auto p-6 space-y-8 relative z-10"></div>
+    <div id="character-modal" class="character-modal"></div>
+    
+    <script>
+        const canvas = document.getElementById('particles-canvas');
+        const ctx = canvas.getContext('2d');
+        let particles = [];
+        
+        function resizeCanvas() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+        }
+        resizeCanvas();
+        window.addEventListener('resize', resizeCanvas);
+        
+        class Particle {
+            constructor() {
+                this.reset();
+            }
+            reset() {
+                this.x = Math.random() * canvas.width;
+                this.y = Math.random() * canvas.height;
+                this.size = Math.random() * 2 + 0.5;
+                this.speedX = (Math.random() - 0.5) * 0.5;
+                this.speedY = (Math.random() - 0.5) * 0.5;
+                this.opacity = Math.random() * 0.5 + 0.2;
+                this.hue = Math.random() > 0.5 ? 180 : 220;
+                this.pulse = Math.random() * Math.PI * 2;
+            }
+            update() {
+                this.x += this.speedX;
+                this.y += this.speedY;
+                this.pulse += 0.02;
+                
+                if (this.x < 0 || this.x > canvas.width || this.y < 0 || this.y > canvas.height) {
+                    this.reset();
+                }
+            }
+            draw() {
+                const currentOpacity = this.opacity * (0.5 + Math.sin(this.pulse) * 0.5);
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+                ctx.fillStyle = `hsla(${this.hue}, 80%, 60%, ${currentOpacity})`;
+                ctx.fill();
+                
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.size * 2, 0, Math.PI * 2);
+                ctx.fillStyle = `hsla(${this.hue}, 80%, 60%, ${currentOpacity * 0.3})`;
+                ctx.fill();
+            }
+        }
+        
+        for (let i = 0; i < 80; i++) {
+            particles.push(new Particle());
+        }
+        
+        function animateParticles() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            particles.forEach(p => {
+                p.update();
+                p.draw();
+            });
+            requestAnimationFrame(animateParticles);
+        }
+        animateParticles();
+    </script>
     <script src="script.js"></script>
 </body>
 </html>
