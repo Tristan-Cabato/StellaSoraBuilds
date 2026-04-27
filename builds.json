@@ -1,0 +1,94 @@
+{
+    "AmberTemp": {
+        "name": "AmberTemp",
+        "main": "Amber",
+        "supports": ["Flora", "Kasimira"],
+        "elements": ["Ignis"],
+        "code": "AAAAZwAAAH4AAABsMAbDADCsMxhgAMAAAA2A"
+    },
+    "L-Ru Alt": {
+        "name": "L-Ru Alt",
+        "main": "SnowishLaru",
+        "supports": ["Flora", "Nazuna"],
+        "elements": ["Ignis", "Terra"],
+        "code": "AAAAngAAAH4AAACcMAbAYACsMxhgAKGGwAAw"
+    },
+    "Pollux": {
+        "name": "Pollux",
+        "main": "Minova",
+        "supports": ["Iris", "Tilia"],
+        "elements": ["Lux", "Aqua"],
+        "code": "AAAAhAAAAG8AAABrrYDYAADNsMAAAKGGAGAA"
+    },
+    "LeaF": {
+        "name": "LeaF",
+        "main": "Wraith",
+        "supports": ["Canace", "Ann"],
+        "elements": ["Ventus"],
+        "code": "AAAAjwAAAHgAAAB7zbADDbA9hsBgAGGGw2wA"
+    },
+    "Post-Haste": {
+        "name": "Post-Haste",
+        "main": "Teresa",
+        "supports": ["Donna", "Freesia"],
+        "elements": ["Aqua"],
+        "code": "AAAAfwAAAIIAAAB9YbZjMADNsGAMAK2AaDGA"
+    },
+
+
+
+
+    "Eternatus": {
+        "name": "Eternatus",
+        "main": "Firenze",
+        "supports": ["Otoha", "Cosette"],
+        "elements": ["Umbra"],
+        "code": "AAAAbgAAAJEAAACOzbAYAEYwBjtgAGwAxAwI"
+    },
+    "Minos": {
+        "name": "Minos",
+        "main": "Gerie",
+        "supports": ["Minova", "Ridge"],
+        "elements": ["Terra", "Lux"],
+        "code": "AAAAlQAAAHQAAACEzbYBgADBmABsAFGAAGAY"
+    },
+    "Barbatos": {
+        "name": "Barbatos",
+        "main": "Nanoha",
+        "supports": ["Nazuka", "Ann"],
+        "elements": ["Ventus"],
+        "code": "AAAAdwAAAIUAAAB7MAbYYAswANtsADAGwwwA"
+    },
+    "Eterna": {
+        "name": "Eterna",
+        "main": "Firenze",
+        "supports": ["Mistique", "Cosette"],
+        "elements": ["Umbra"],
+        "code": "AAAAbgAAAI4AAACHzDDYAADNhgAMMM2GwGAA"
+    },
+
+
+
+
+    "L-Ru": {
+        "name": "L-Ru",
+        "main": "Flora",
+        "supports": ["SnowishLaru", "Chixia"],
+        "elements": ["Ignis"],
+        "code": "AAAAfgAAAJ4AAACNwYbDAYDNgAMMBswwAGwA"
+    },
+    "Rhododenrous": {
+        "name": "Rhododenrous",
+        "main": "Nazuna",
+        "supports": ["SpringseekCoronis", "Gerie"],
+        "elements": ["Terra"],
+        "code": "AAAAnAAAAJ8AAACVwYAYbA6RsABsMGAA2wwG"
+    },
+    "ThyEnd": {
+        "name": "ThyEnd",
+        "main": "Gerie",
+        "supports": ["Nazuna", "Ridge"],
+        "elements": ["Terra"],
+        "code": "AAAAlQAAAJwAAAB0zbYDAAAwBjhgCMGAAGAA"
+    }
+}

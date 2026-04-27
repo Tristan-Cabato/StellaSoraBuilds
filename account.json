@@ -1,0 +1,29 @@
+{
+    "Firefli": {
+        "ownerID": "1",
+        "ingameID": "706517972",
+        "username": "Hotaru Itsorano",
+        "elementSpecialty": ["Lux", "Aqua"], 
+        "avatarURL": "Shimiao",
+        "builds": ["AmberTemp", "L-Ru Alt", "Pollux", "LeaF", "Post-Haste"]
+
+    },
+
+    "S-Fari": {
+        "ownerID": "2",
+        "ingameID": "706547733",
+        "username": "Pisfalis Tokyo",
+        "elementSpecialty": ["Umbra", "Ventus"], 
+        "avatarURL": "Cosette",
+        "builds": ["Eternatus", "Minos", "Barbatos", "Eterna"]
+    },
+
+    "XenoX": {
+        "ownerID": "3",
+        "ingameID": "706553052",
+        "username": "Xenoshaki Firaga",
+        "elementSpecialty": ["Ignis", "Terra"], 
+        "avatarURL": "SnowishLaru",
+        "builds": ["L-Ru", "Rhododenrous", "ThyEnd"]
+    }
+}
