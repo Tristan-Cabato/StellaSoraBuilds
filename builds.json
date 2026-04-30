@@ -34,6 +34,13 @@
         "elements": ["Aqua"],
         "code": "AAAAfwAAAIIAAAB9YbZjMADNsGAMAK2AaDGA"
     },
+    "Chitin": {
+        "name": "Chitin",
+        "main": "Chitose",
+        "supports": ["Iris", "Teresa"],
+        "elements": ["Aqua"],
+        "code": "AAAAkAAAAG8AAAB/w7AbAADCdsAAAKwAGG2A"
+    },
 
 
 
