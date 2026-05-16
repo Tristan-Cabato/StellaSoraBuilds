@@ -4,13 +4,15 @@
         "main": "Amber",
         "supports": ["Flora", "Kasimira"],
         "elements": ["Ignis"],
+        "highest": 31,
         "code": "AAAAZwAAAH4AAABsMAbDADCsMxhgAMAAAA2A"
     },
-    "L-Ru Alt": {
-        "name": "L-Ru Alt",
+    "Whippy": {
+        "name": "Whippy",
         "main": "SnowishLaru",
         "supports": ["Flora", "Nazuna"],
         "elements": ["Ignis", "Terra"],
+        "highest": 32,
         "code": "AAAAngAAAH4AAACcMAbAYACsMxhgAKGGwAAw"
     },
     "Pollux": {
@@ -18,13 +20,36 @@
         "main": "Minova",
         "supports": ["Iris", "Tilia"],
         "elements": ["Lux", "Aqua"],
+        "highest": 31,
         "code": "AAAAhAAAAG8AAABrrYDYAADNsMAAAKGGAGAA"
+    },
+    "SS_Pollux": {
+        "name": "SS_Pollux",
+        "main": "Minova",
+        "supports": ["Jinglin", "Tilia"],
+        "elements": ["Lux"],
+        "highest": 33,
+        "code": "AAAAhAAAAHUAAABrrYDYAAAxhgAMAKGGAGAA"
+    },
+    "Pollux-III": {
+        "name": "Pollux-III",
+        "main": "Minova",
+        "supports": ["Firefly", "Tilia"],
+        "elements": ["Lux"],
+        "highest": 32,
+        "hasAlts": true,
+        "alts": [
+            { "name": "Pollux" },
+            { "name": "SS_Pollux" }
+        ],
+        "code": "AAAAhAAAAHMAAABrrYDYAACRs8AMAKGGAGAA"
     },
     "LeaF": {
         "name": "LeaF",
         "main": "Wraith",
         "supports": ["Canace", "Ann"],
         "elements": ["Ventus"],
+        "highest": 31,
         "code": "AAAAjwAAAHgAAAB7zbADDbA9hsBgAGGGw2wA"
     },
     "Post-Haste": {
@@ -32,6 +57,7 @@
         "main": "Teresa",
         "supports": ["Donna", "Freesia"],
         "elements": ["Aqua"],
+        "highest": 31,
         "code": "AAAAfwAAAIIAAAB9YbZjMADNsGAMAK2AaDGA"
     },
     "Chitin": {
@@ -39,6 +65,7 @@
         "main": "Chitose",
         "supports": ["Iris", "Teresa"],
         "elements": ["Aqua"],
+        "highest": 33,
         "code": "AAAAkAAAAG8AAAB/w7AbAADCdsAAAKwAGG2A"
     },
 
@@ -50,6 +77,11 @@
         "main": "Firenze",
         "supports": ["Otoha", "Cosette"],
         "elements": ["Umbra"],
+        "highest": 33,
+        "hasAlts": true,
+        "alts": [
+            { "name": "Eterna" }
+        ],
         "code": "AAAAbgAAAJEAAACOzbAYAEYwBjtgAGwAxAwI"
     },
     "Minos": {
@@ -57,6 +89,7 @@
         "main": "Gerie",
         "supports": ["Minova", "Ridge"],
         "elements": ["Terra", "Lux"],
+        "highest": 32,
         "code": "AAAAlQAAAHQAAACEzbYBgADBmABsAFGAAGAY"
     },
     "Barbatos": {
@@ -64,6 +97,7 @@
         "main": "Nanoha",
         "supports": ["Nazuka", "Ann"],
         "elements": ["Ventus"],
+        "highest": 31,
         "code": "AAAAdwAAAIUAAAB7MAbYYAswANtsADAGwwwA"
     },
     "Eterna": {
@@ -71,6 +105,7 @@
         "main": "Firenze",
         "supports": ["Mistique", "Cosette"],
         "elements": ["Umbra"],
+        "highest": 29,
         "code": "AAAAbgAAAI4AAACHzDDYAADNhgAMMM2GwGAA"
     },
 
@@ -82,13 +117,18 @@
         "main": "Flora",
         "supports": ["SnowishLaru", "Chixia"],
         "elements": ["Ignis"],
-        "code": "AAAAfgAAAJ4AAACNwYbDAYDNgAMMBswwAGwA"
+        "highest": 31,
+        "hasAlts": true,
+        "alts": [
+            { "name": "Whippy", "via": "Firefli" }
+        ]
     },
     "Rhododenrous": {
         "name": "Rhododenrous",
         "main": "Nazuna",
         "supports": ["SpringseekCoronis", "Gerie"],
         "elements": ["Terra"],
+        "highest": 31,
         "code": "AAAAnAAAAJ8AAACVwYAYbA6RsABsMGAA2wwG"
     },
     "ThyEnd": {
@@ -96,6 +136,11 @@
         "main": "Gerie",
         "supports": ["Nazuna", "Ridge"],
         "elements": ["Terra"],
+        "highest": 32,
+        "hasAlts": true,
+        "alts": [
+            { "name": "Minos", "via": "S-Fari" }
+        ],
         "code": "AAAAlQAAAJwAAAB0zbYDAAAwBjhgCMGAAGAA"
     }
 }
